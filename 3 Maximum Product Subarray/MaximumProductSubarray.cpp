@@ -3,7 +3,7 @@ using namespace std;
 
 #define int long long
 #define MOD 1000000007
-#define vll vector<ll>
+#define vll vector<int>
 
 signed main() {
     int n;
