@@ -10,8 +10,6 @@ using namespace std;
 #define MOD 1000000007
 #define vll vector<int>
 
-
-
 signed main() {
     int n;
     cin>>n;
