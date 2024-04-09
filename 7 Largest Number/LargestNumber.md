@@ -1,3 +1,4 @@
+# Algorithm : 
 - The obtainInputs function takes the input string (s) and an empty vector (inputs) to store the extracted numbers.
 - It iterates through each character in the string (s):
 - If the character is a digit, it converts it to a number by subtracting '0' from its ASCII value and accumulates it in a temporary variable num.

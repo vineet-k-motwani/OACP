@@ -1,3 +1,4 @@
+# Algorithm : 
 - Sort Costs:
 The sort function is used to sort the costs array in ascending order. This ensures you prioritize buying the cheapest ice creams first.
 - Initialize Variables:
