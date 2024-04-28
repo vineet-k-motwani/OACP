@@ -10,8 +10,7 @@ using namespace std;
 #define MOD 1000000007
 #define vll vector<int>
 
-int count_subgrids(const vector<vector<bool>>& grid, int n)
-{
+int count_subgrids(const vector<vector<bool>>& grid, int n) {
     int subgrids = 0;
     for(int a=0; a<n; ++a) {
         for(int b=a+1; b<n; ++b) {
