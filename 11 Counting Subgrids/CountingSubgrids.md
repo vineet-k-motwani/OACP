@@ -11,3 +11,4 @@ To account for this double counting, we subtract 1 from count (i.e., x - 1). Thi
 Finally, dividing by 2 corrects for the overcounting because for every subgrid, we've counted it once for each row that it belongs to.
 - Sum subgrids: The algorithm adds the calculated number of subgrids formed by the current row pair (a and b) to the total count of subgrids (subgrids).
 - Return result: After iterating over all possible row pairs, the algorithm returns the total count of subgrids (subgrids).
+- The time complxity of the algorithm is ``` O(E*(V+E))``` .
